@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - PlayerFollowCamera
+  - Ladder
+  - Despawn Ball
+  - Ball
+  - Hill
+  - Goal
+  - Lava
+  - Tracker
+  - RoomPlayer
+  - ReadyButton
+  - NetworkManager
+  - TestButton
+  - GoldSword
+  - HealthText
+  - Barrier
+  - Platform
+  - ChatWindow
+  - deadSpawn
+  - PauseCanvas
+  - PauseManager
+  - Customization
+  - CustomizationButton
+  - CustomizationCanvas
+  - CustomizationHat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Interactables
+  - Water
+  - UI
+  - Pushables
+  - PostProcessing
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

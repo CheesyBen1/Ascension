@@ -1,0 +1,20 @@
+{
+    "name": "Mirror.Components",
+    "rootNamespace": "",
+    "references": [
+        "Mirror",
+        "Cinemachine",
+        "com.unity.cinemachine.EditorTests",
+        "com.unity.cinemachine.editor",
+        "com.unity.cinemachine.Tests"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
